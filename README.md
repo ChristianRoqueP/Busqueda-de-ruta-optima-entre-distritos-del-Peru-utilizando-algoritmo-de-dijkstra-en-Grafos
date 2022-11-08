@@ -1,4 +1,4 @@
-## Búsqueda de ruta óptima entre distritos del Perú utilizando algoritmo de Fuerza Bruta en Grafos
+## Búsqueda de ruta óptima entre distritos del Perú utilizando algoritmo de dijkstra en Grafos
 
 #### I. PROPUESTA
 
